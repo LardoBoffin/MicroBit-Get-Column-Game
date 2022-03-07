@@ -14,3 +14,5 @@ Each time you make a mistake on the lower levels you go back up a row if not on 
 Each time the pixel makes it off the right hand side of the screen you lose some energy.
 
 When you run out of energy it is game over and your score is displayed.
+
+Paste the program code into https://python.microbit.org/v/2, click Download and then copy to your micro:bit and enjoy! Well, maybe not the very last part...
